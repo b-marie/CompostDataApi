@@ -1,0 +1,3 @@
+C:\Users\Britt\source\repos\CompostDataApi\CompostDataApi\obj\Debug\netcoreapp2.1\CompostDataApi.csproj.CoreCompileInputs.cache
+C:\Users\Britt\source\repos\CompostDataApi\CompostDataApi\obj\Debug\netcoreapp2.1\CompostDataApi.AssemblyInfoInputs.cache
+C:\Users\Britt\source\repos\CompostDataApi\CompostDataApi\obj\Debug\netcoreapp2.1\CompostDataApi.AssemblyInfo.cs
