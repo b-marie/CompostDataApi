@@ -12,9 +12,12 @@
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
-      "launchUrl": "api/values",
+      "launchUrl": "api/compost",
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "ConnectionString": "AccountEndpoint=https://compostdatasql.documents.azure.com:443/;AccountKey=Ad6MYDDAoLuIiduguWKjBaaP3Fd2AD3aLG0lsBHuSUd407rIFaKgGLaYoWXJOvJX6n8xFfBfpMntvKIkVDoCVQ==;",
+        "EndpointUrl": "https://compostdatasql.documents.azure.com:443/",
+        "PrimaryKey": "Ad6MYDDAoLuIiduguWKjBaaP3Fd2AD3aLG0lsBHuSUd407rIFaKgGLaYoWXJOvJX6n8xFfBfpMntvKIkVDoCVQ=="
       }
     },
     "CompostDataApi": {
